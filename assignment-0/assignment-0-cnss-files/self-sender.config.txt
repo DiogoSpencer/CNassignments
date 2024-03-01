@@ -1,0 +1,5 @@
+
+node 0 0 cnss.lib.EndSystemControl SelfSenderNode 
+
+
+parameter stop 8000

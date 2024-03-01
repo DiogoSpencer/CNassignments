@@ -1,0 +1,6 @@
+
+node 0 0 cnss.lib.EndSystemControl TimeoutHandlingNode 
+node 1 0 cnss.lib.EndSystemControl TimeoutHandlingNode
+
+
+parameter stop 10000

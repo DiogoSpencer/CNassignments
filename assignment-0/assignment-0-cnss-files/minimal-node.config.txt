@@ -1,0 +1,3 @@
+
+node 0 0 cnss.lib.EndSystemControl MinimalNode 0 1
+node 1 0 cnss.lib.EndSystemControl MinimalNode 2 3

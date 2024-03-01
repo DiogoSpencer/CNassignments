@@ -1,0 +1,6 @@
+
+node 0 0 cnss.lib.EndSystemControl PeriodicActionNode 
+node 1 0 cnss.lib.EndSystemControl PeriodicActionNode
+
+
+parameter stop 10000
